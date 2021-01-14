@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TyIoq7swY1FNyApdTddoFIu6gAfXbVoDDG7aZAC0ZohYSsCubtQxs5BhtaKU+xCAAVN+3NnLCQqy1ysT9rUvCQ==",
+  "dgSpecHash": "8Mo4dZBiZmqRK9W0yg8NDXuWIPebTfv++thMb7BRvAcNy8Xjm5vntcwZArd8ZJlu45C5L1YHB3shvzVgpQdrUw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Esdras Costa\\ALURA\\API Rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj",
   "expectedPackageFiles": [
