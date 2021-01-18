@@ -15,7 +15,8 @@ namespace Alura.ListaLeitura.Modelos
         public TipoListaLeitura Lista { get; set; }
     }
 
-    [XmlType("Livro")]
+    //Na montagem do esquema xml ele utiliza o nome do recurso que definimos "Livro" ao invés do nome da classe
+    [XmlType("Livro")] 
     public class LivroApi
     {
         public int Id { get; set; }
