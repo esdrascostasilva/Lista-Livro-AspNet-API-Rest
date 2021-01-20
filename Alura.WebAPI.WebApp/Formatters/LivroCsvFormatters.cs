@@ -34,7 +34,6 @@ namespace Alura.WebAPI.WebApp.Formatters
                 var livro = context.Object as LivroApi;
                 livroCSV = $"{livro.Titulo};{livro.Subtitulo},{livro.Autor};{livro.Lista}";
             }
-            
 
             using (var escritor = context.WriterFactory(context.HttpContext.Response.Body, selectedEncoding))
             {
